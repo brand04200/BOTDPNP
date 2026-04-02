@@ -1,0 +1,10 @@
+.git
+.gitignore
+discord/.git
+discord.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+xp_data.json
