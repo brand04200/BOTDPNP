@@ -532,6 +532,9 @@ class Client(discord.Client):
         elif msg == '!vann':
             await message.channel.send('pria ganteng idaman 😘😘😘')
         
+        elif msg == '!karl':
+            await message.channel.send('jangan nuduh my kisah')
+        
         elif msg.startswith('!profile'):
             member = message.mentions[0] if message.mentions else message.author
 
